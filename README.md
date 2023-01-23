@@ -9,3 +9,5 @@ at x1, which will be a better approximation of the root. Now, drawing
 another tangent at [x1, f(x1)], which cuts the x-axis at x2, which is a
 still better approximation and the process can be continued till the
 desired accuracy is achieved.
+
+![images](https://user-images.githubusercontent.com/84837441/214099271-f1c7325e-909d-4ad5-90bc-a3050056bc91.png)
